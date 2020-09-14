@@ -16,5 +16,10 @@ namespace adenaLabels
         {
             InitializeComponent();
         }
+
+        private void loadFile(object sender, EventArgs e)
+        {
+            Console.WriteLine("TExt");
+        }
     }
 }
